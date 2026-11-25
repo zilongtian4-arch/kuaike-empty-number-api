@@ -1,0 +1,12 @@
+.env
+*.key
+*_empty.txt
+*_active.txt
+*_silent.txt
+*_risk.txt
+*_stopped.txt
+*_unknown.txt
+numbers.txt
+__pycache__/
+node_modules/
+*.class
